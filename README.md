@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PriUY.
-- 👀 I’m interested in web devlopment and app devlopment as well and i am passionate about designing.
-- 🌱 I’m currently learning CSS and JS.
+- 👋 Hi, I’m Priyanshu.
+- 👀 I’m interested in web devlopment and app devlopment as well.I am a passionate Designer who loves to code.
+- 🌱 I’m currently learning NextJS.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me on my linkedin account https://www.linkedin.com/in/priyaanshu.
 
