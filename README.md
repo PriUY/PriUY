@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 there!!! PRIYANSHU SHEKHAR </h1>
+<h1 align="center">Hi 👋 there!!! i AM PRIYANSHU SHEKHAR </h1>
 <h3 align="center">Budding Web Developer 💻 || Undergrad at NIT Patna 👨‍🎓 || Graphic Designer 🖋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj82862&label=Profile%20views&color=0e75b6&style=flat" alt="raj82862" /> </p>
