@@ -1,22 +1,15 @@
 
-<h2 align="left">👦About Me:</h2>
-
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate with other Open Source Enthusiasts
-- 🥅 2021 Goals: Contribute more to Open Source Projects
-- ⚡ Fact: Your present is responsible for each and every minute of your past and future
-- 🎸 I love to Design and read novels.
- 
-
 <h1 align="center">Hi 👋 there!!! I am PRIYANSHU SHEKHAR </h1>
 
 <h3 align="center">Budding Web Developer 💻 || Undergrad at NIT Patna 👨‍🎓 || Graphic Designer 🖋</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PriUY&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar62367" /> </p>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriUY&column=4&margin-w=15&margin-h=15&theme=radical" alt="PriUY" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriUY&column=6&margin-w=10&margin-h=10&theme=radical" alt="PriUY" /></a> </p>
 
 <p align="middle"> <a href="https://twitter.com/@PriUY" target="blank"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?logo=twitter&style=for-the-badge" alt="@spectre_harsh07" /></a> </p>
+
+<h2 align="left">👦About Me:</h2>
 
 - 🔭 I’m currently working on **my-portfolio**
 
@@ -28,12 +21,16 @@
 
 - 📫 How to reach me **priyanshus.ug20.ce@nitp.ac.in**
 
-- ⚡ Fun fact **I am a pro graphic designer**
+- 🥅 2021 Goals: **Contribute more to Open Source Projects**
 
+- ⚡ Fact: **Your present is responsible for each and every minute of your past and future**
+- 
+- 🎸 **I love to Design and read novels.**
+- 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
-<a href="https://codepen.io/@harsh_y20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@harsh_y20" height="30" width="40" /></a>
-<a href="https://dev.to/@spectre_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@spectre_7" height="30" width="40" /></a>
+<a href="https://dev.to/@PriUY" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@spectre_7" height="30" width="40" /></a>
 <a href="https://twitter.com/@spectre_harsh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@spectre_harsh07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-kumar-125ba8200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-kumar-125ba8200" height="30" width="40" /></a>
 <a href="https://kaggle.com/harshkumar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshkumar07" height="30" width="40" /></a>
