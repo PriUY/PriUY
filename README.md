@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋 there!!! I am PRIYANSHU SHEKHAR </h1>
 
-<h3 align="center">Budding Web Developer 💻 || Undergrad at NIT Patna 👨‍🎓 || Graphic Designer 🖋</h3>
+<h3 align="center">Budding Web Developer 💻 || Undergrad at NIT Patna 👨‍🎓 || Graphic Designer 🖋</h3><br/>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=PriUY&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar62367" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PriUY&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar62367" /> </p><br/>
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriUY&column=6&margin-w=10&margin-h=10&theme=radical" alt="PriUY" /></a> </p><br/>
 
