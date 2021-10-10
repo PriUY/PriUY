@@ -7,7 +7,7 @@
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriUY&column=6&margin-w=10&margin-h=10&theme=radical" alt="PriUY" /></a> </p><br/>
 
-<p align="middle"> <a href="https://twitter.com/@PriUY" target="blank"><img src="https://img.shields.io/twitter/follow/PriUY?logo=twitter&style=for-the-badge" alt="@PriUY" /></a> </p><br/>
+<p align="middle"> <a href="https://twitter.com/@Priyans08981606" target="blank"><img src="https://img.shields.io/twitter/follow/PriUY?logo=twitter&style=for-the-badge" alt="@@Priyans08981606" /></a> </p><br/>
 
 <h2 align="left">👦About Me:</h2>
 
@@ -31,10 +31,10 @@
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
-<a href="https://dev.to/@PriUY" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@spectre_7" height="30" width="40" /></a>
-<a href="https://twitter.com/@spectre_harsh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@spectre_harsh07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh-kumar-125ba8200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-kumar-125ba8200" height="30" width="40" /></a>
-<a href="https://kaggle.com/harshkumar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshkumar07" height="30" width="40" /></a>
+
+<a href="https://twitter.com/@Priyans08981606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Priyans08981606" height="30" width="40" /><harsh/a>
+<a href="https://linkedin.com/in/priyaanshu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyaanshu/" height="30" width="40" /></a>
+
 </p>
 <br/>
 <h2 align="center">Languages and Tools:</h2>
