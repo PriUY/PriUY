@@ -7,7 +7,7 @@
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriUY&column=6&margin-w=10&margin-h=10&theme=radical" alt="PriUY" /></a> </p><br/>
 
-<p align="middle"> <a href="https://twitter.com/@PriUY" target="blank"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?logo=twitter&style=for-the-badge" alt="@spectre_harsh07" /></a> </p><br/>
+<p align="middle"> <a href="https://twitter.com/@PriUY" target="blank"><img src="https://img.shields.io/twitter/follow/PriUY?logo=twitter&style=for-the-badge" alt="@PriUY" /></a> </p><br/>
 
 <h2 align="left">👦About Me:</h2>
 
